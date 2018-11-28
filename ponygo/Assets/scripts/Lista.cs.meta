@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0a945849d6e2fd40aa8f4eb8a666120
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fprogra: {fileID: 21300000, guid: 5806936007bf6d34b96f603b1e3669a7, type: 3}
+  - md1: {fileID: 21300000, guid: 6d4331addfa5b294a9531dd0294a5778, type: 3}
+  - itics: {fileID: 21300000, guid: 15547c2188dd1ef4ab6813e34aa0abdf, type: 3}
+  - PrefabMateria: {instanceID: 0}
+  - Contenedor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
